@@ -22,7 +22,7 @@ I was always been an enthusiastic gamer and my Steam library is very rich in ter
 - Data is scrapped using  [Steam Store project](https://github.com/nik-davis/steam-data-science-project)   
 
 ## Data Analysis
-The analysis was done by categorizing games according to their genre and the number of hours spent on them.
+The analysis was done by categorizing games by type and number of hours played. In addition, we also looked at games by month and percentage of play.
 
 
 ## Findings
