@@ -15,6 +15,7 @@ This project will be an analysis on my own <a href="https://store.steampowered.c
 **[Limitations and Future Work](#limitations-and-future-work)**
 
 - Slides for the presentation is [here](https://github.com/Berkkaradu/SteamDataBase/tree/main/Slides)
+- Game Data is [here](https://github.com/Berkkaradu/SteamDataBase/blob/main/GameData)
 
 ## Motivation 
 I was always been an enthusiastic gamer and my Steam library is very rich in terms of games, so it is a good place to collect data.
