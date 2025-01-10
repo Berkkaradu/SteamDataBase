@@ -29,7 +29,7 @@ The analysis was done by categorizing games by type and number of hours played. 
 
 
 ## Findings
-I found out i mostly spent time on playing genres Souls-like, Action-Adventure, Roguelike, Cyberpunk. Which some of them are my generel life interests.
+I found out i mostly spent time on playing genres Souls-like, Action-Adventure, Roguelike, Cyberpunk. Which some of them are my generel life interests. I also found that i played less games this year than last year.
 
 ## Limitations and Future Work
 I don't have access to the data of which game I played on which day and how much I played. That was a limitation for me.  It prevented me from doing a more detailed data analysis. 
