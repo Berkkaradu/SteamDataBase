@@ -14,6 +14,8 @@ This project will be an analysis on my own <a href="https://store.steampowered.c
 
 **[Limitations and Future Work](#limitations-and-future-work)**
 
+**[Slides for Presentation](#slides)**
+
 ## Motivation 
 I was always been an enthusiastic gamer and my Steam library is very rich in terms of games, so it is a good place to collect data.
 
